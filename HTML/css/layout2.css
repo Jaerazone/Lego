@@ -1,0 +1,62 @@
+
+.main-backgournd {
+    width: 100%;
+    height: 500px;
+    background-image: url(../img/shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 1px;
+}
+
+.main-title {
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+    text-align: center;
+}
+.main-content {
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.main-button {
+    padding: 15px;
+    font-size: 20px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 150px;
+}
+.explain-box1 {
+    color: black;
+    background-color: #eee;
+    text-align: center;
+    width: 50%;
+    max-width: 600px;
+    padding: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -50px;
+    box-sizing: content-box;
+}
+.explain-box2 {
+    color: black;
+    background-color: #eee;
+    text-align: center;
+    width: 50%;
+    max-width: 600px;
+    padding: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    top: -50px;
+    box-sizing: border-box;
+}
